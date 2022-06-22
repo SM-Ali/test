@@ -7,7 +7,7 @@ class config:
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "650764564044-s23f8d24spktppca5s857m4eru91bmhu.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
-    SUPPORT_CHAT_LINK = "https://t.me/smmdsahebali"
+    SUPPORT_CHAT_LINK = ""
 
 
 class BotCommands:
